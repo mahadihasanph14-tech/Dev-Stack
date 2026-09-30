@@ -50,4 +50,6 @@ For example, when there are no technologies in the selected stack, the project s
 ) : (
   <StackPanel stack={stack} />
 )}
+
+    
 vii.A parent passes data to a child using props but A child can send something back by calling a function passed from the parent as a prop.
